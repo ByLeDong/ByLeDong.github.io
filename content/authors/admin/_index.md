@@ -6,7 +6,7 @@ title: 吳健雄
 name_pronunciation: Le Le
 
 # Full name (for SEO)
-first_name: Le
+first_name: Leeee
 last_name: Le
 
 # Status emoji
