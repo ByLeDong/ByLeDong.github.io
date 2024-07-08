@@ -3,10 +3,10 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Leee Le
+name_pronunciation: L L
 
 # Full name (for SEO)
-first_name: Leeee
+first_name: L
 last_name: Le
 
 # Status emoji
