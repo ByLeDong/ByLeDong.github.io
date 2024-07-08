@@ -3,7 +3,7 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Le Le
+name_pronunciation: Leee Leeee
 
 # Full name (for SEO)
 first_name: Leeee
